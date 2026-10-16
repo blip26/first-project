@@ -1,5 +1,5 @@
 # First project
-learning how to html and use readme :)
+learning how to html and use markdown :)
 
 This is **bold text**
 
