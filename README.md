@@ -1,4 +1,4 @@
-# first-project
+# First project
 learning how to html and use readme :)
 
 This is **bold text**.
