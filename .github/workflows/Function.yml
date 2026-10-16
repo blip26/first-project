@@ -1,1 +1,5 @@
 name: Make website function
+
+on: 
+  push:
+    branch: main
